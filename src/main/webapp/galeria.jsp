@@ -22,7 +22,7 @@
                 <li><a href="#Depoimento_ ">Depoimentos</a></li>
             </ul>
         </nav>
-        <section id="galeria" class="galeria">
+        <section id_doador="galeria" class="galeria">
             <h1>Galeria</h1>
             <div class="gallery-container">
                 <div class="gallery-item">
@@ -41,15 +41,15 @@
             </div>
         
             <!-- Modal para visualização em tela cheia -->
-            <div id="modal" class="modal">
+            <div id_doador="modal" class="modal">
                 <span class="close">&times;</span>
-                <img class="modal-content" id="imgModal">
-                <div id="caption"></div>
+                <img class="modal-content" id_doador="imgModal">
+                <div id_doador="caption"></div>
             </div>
         </section>
         
 
-        <footer id="contato">
+        <footer id_doador="contato">
             <section>
                 <h1>Sobre nós</h1>
             <p>

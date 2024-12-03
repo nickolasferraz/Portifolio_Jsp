@@ -63,7 +63,7 @@
 
 });
         </script>
-   <section id=Depoimento_ class="Depoimentos">
+   <section id_doador=Depoimento_ class="Depoimentos">
     <h1>Depoimentos</h1>
     <div class="cards-container">
         <div class="main_cards">
@@ -88,7 +88,7 @@
        <iframe loading="lazy" src="https://maps.google.com/maps?q=Alameda%20dos%20L%C3%ADrios%2C%20145%20-%20Parque%20Cecap&amp;t=m&amp;z=12&amp;output=embed&amp;iwloc=near" title="Alameda dos Lírios, 145 - Parque Cecap" aria-label="Alameda dos Lírios, 145 - Parque Cecap"></iframe>
     </section>
 </section>
-    <footer id="contato">
+    <footer id_doador="contato">
         <section>
             <h1>Sobre nós</h1>
         <p>
